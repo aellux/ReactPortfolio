@@ -1,31 +1,31 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "meru",
+    subtitle: "League of Legends AI Coach",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A full-stack AI/Machine Learning website that provides analytics, statistics, and tips to improve their competitive gameplay in a videogame known as League of Legends",
     image: "./project-1.gif",
     link: "https://reactbootcamp.com",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Discord Dictionary Bot",
+    subtitle: "TuffyHacks 2021",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-2.gif",
     link: "https://reactbootcamp.com",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "FullertonEats",
+    subtitle: "Swift/SwiftUI and Mapbox",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-3.gif",
     link: "https://reactbootcamp.com",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "TufferUp",
+    subtitle: "Software Engineering Project",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-4.gif",
@@ -51,10 +51,10 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "JavaScript",
+  "Flutter",
+  "Swift/SwiftUI",
+  "Android Studios",
+  "AWS DynamoDB",
   "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "C++",
 ];
